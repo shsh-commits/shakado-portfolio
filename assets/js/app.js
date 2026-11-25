@@ -3,10 +3,10 @@
   'use strict';
   var UI={
     en:{badges:'Badges',certifications:'Certifications',language:'Language',prev:'Previous',next:'Next',verify:'Verify',team:'Team',points:'points',
-      noBadges:'No badges yet.',noCerts:'No certifications yet.',credit:'Based on the Corvus Mind website, © 2026 Corvus Mind.',
+      noBadges:'No badges yet.',noCerts:'No certifications yet.',credit:'© 2026 Shakado',
       error:'Could not load the profile. If you opened the file directly, serve the folder over HTTP.'},
     fr:{badges:'Badges',certifications:'Certifications',language:'Langue',prev:'Précédent',next:'Suivant',verify:'Vérifier',team:'Équipe',points:'points',
-      noBadges:'Aucun badge pour le moment.',noCerts:'Aucune certification pour le moment.',credit:'Basé sur le site Corvus Mind, © 2026 Corvus Mind.',
+      noBadges:'Aucun badge pour le moment.',noCerts:'Aucune certification pour le moment.',credit:'© 2026 Shakado',
       error:'Impossible de charger le profil. Si vous avez ouvert le fichier directement, servez le dossier en HTTP.'}
   };
   var lang=startLang(), data=null, $=function(id){return document.getElementById(id);};
