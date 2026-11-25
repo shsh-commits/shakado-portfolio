@@ -6,6 +6,27 @@
   "socials": [],
   "badges": [
     {
+      "title": { "en": "Opération Culot 2026 - 1st place Speed Runner", "fr": "Opération Culot 2026 - 1ère place Speed Runner" },
+      "issuer": "Les Blaireaux des Légendes",
+      "date": "2026-10-31",
+      "img": "assets/img/badges/badge-culot-speedrunner.png",
+      "url": "https://badgify.eu/badge/_865wO-ssVcXrP37QMn4XDEFNxo0ZS2viYiUvhgty0MAaTOhNU9VzcHD2ihEBrKy"
+    },
+    {
+      "title": { "en": "Opération Culot 2026 - 3rd place online", "fr": "Opération Culot 2026 - 3ème place en ligne" },
+      "issuer": "Les Blaireaux des Légendes",
+      "date": "2026-10-31",
+      "img": "assets/img/badges/badge-culot-top3.png",
+      "url": "https://badgify.eu/badge/AkFJ1xkyRkgBB9Webu78mNyTzLrBl0krv4ZPreKC12RS75QlQicWbRDZUFZ5Rwpt"
+    },
+    {
+      "title": { "en": "Opération Culot 2026 - Finisher", "fr": "Opération Culot 2026 - Finisher" },
+      "issuer": "Les Blaireaux des Légendes",
+      "date": "2026-10-31",
+      "img": "assets/img/badges/badge-culot-finisher.png",
+      "url": "https://badgify.eu/badge/qjWpQDg73cv-W-WOWfOJWkxakCIw-yz2V1oPVxev3N1dOFY9hYZhNX5qTLhJ-sYJ"
+    },
+    {
       "title": { "en": "Deep Threats - Finisher", "fr": "Deep Threats - Finisheur" },
       "issuer": "Campus OSINT - DGA",
       "date": "2026-10-07",
