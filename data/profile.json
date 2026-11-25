@@ -1,0 +1,42 @@
+{
+  "name": "Shakado",
+  "photo": "assets/img/shakado.svg",
+  "role": { "en": "Member of the Corvus Mind OSINT team", "fr": "Membre de l'équipe OSINT Corvus Mind" },
+  "bio": { "en": "Amateur OSINT analyst", "fr": "Analyste OSINT amateur" },
+  "socials": [],
+  "badges": [
+    {
+      "title": { "en": "Deep Threats - Finisher", "fr": "Deep Threats - Finisheur" },
+      "issuer": "Campus OSINT - DGA",
+      "date": "2026-10-07",
+      "img": "assets/img/badges/badge-deepthreats-finisher.png",
+      "url": "https://badgify.eu/badge/Nra-_zQKPpSC8NNWQOB1MhwtjrNn_IOOBhdPqSuDhxHuo-YSMPTtWRF5UgH2YZlS"
+    }
+  ],
+  "certifications": [
+    {
+      "title": { "en": "Opération Culot - Certificate of participation", "fr": "Opération Culot - Certificat de participation" },
+      "issuer": "Bpifrance.io",
+      "date": "2026-10-20",
+      "team": "Corvus Mind",
+      "rank": 3,
+      "field": 315,
+      "points": 1900,
+      "id": "ID-ACMOISM",
+      "img": "assets/img/badges/bpifrance.png",
+      "url": "https://badgify.eu/certificate/wQY5dQMYldQsMA_qaHx7CKaeLYMHLo3U"
+    },
+    {
+      "title": { "en": "Deep Threats - Certificate of participation", "fr": "Deep Threats - Certificat de participation" },
+      "issuer": "Campus OSINT - DGA",
+      "date": "2026-09-22",
+      "team": "MASS",
+      "rank": 25,
+      "field": 491,
+      "points": 2551,
+      "id": "ID-ABGFQ1M",
+      "img": "assets/img/badges/cert-deepthreats-participation.png",
+      "url": "https://badgify.eu/certificate/IJD3WOE6BA5grcMJIT88QoHeRUlpSRWu"
+    }
+  ]
+}

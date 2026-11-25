@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Shakado">
+  <rect width="256" height="256" fill="#211d1e"/>
+  <circle cx="128" cy="128" r="70" fill="#ff5a4a"/>
+  <g fill="none" stroke="#f6f1ee" stroke-width="6">
+    <circle cx="128" cy="128" r="92" stroke-dasharray="108.5 36" stroke-dashoffset="-18"/>
+    <path d="M128 18v30M128 208v30M18 128h30M208 128h30"/>
+  </g>
+  <path d="M160 98l-14-12h-36l-14 13v15l14 12h36l14 12v17l-14 13h-36l-14-12" fill="none" stroke="#161314" stroke-width="18" stroke-linejoin="miter"/>
+</svg>
